@@ -21,6 +21,6 @@ Same as joblib - Copy the files from model library and paste in this folder
 ------------
 ### Step 2: Flask
 
-Flask: Framework for building web applications in Python
-
+Flask: Framework for building web applications in Python   
+Use html to display the webpage operations, link stays active only when the code is running in VSCode.  
 
