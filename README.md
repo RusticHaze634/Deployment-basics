@@ -2,7 +2,7 @@
 
 `Deployment 1`
 
-### Step 1: Create model library and save
+### Method 1: Create model library and save
 
 #### Option 1: The joblib Folder
 Joblib works better for huge dataset or models (prefereably Deep Learning models).  
@@ -19,8 +19,13 @@ Same as joblib - Copy the files from model library and paste in this folder
 - **[test.py](https://github.com/RusticHaze634/Deployment-basics/blob/main/Deployment%201/pickle/test.py) :**  - launch the model from pickle file and predict  
 
 ------------
-### Step 2: Flask
+### Method 2: Flask
 
 Flask: Framework for building web applications in Python   
 Use html to display the webpage operations, link stays active only when the code is running in VSCode.  
 
+-------------
+### Method 3: AWS
+
+**AWS :**
+AWS CodeDeploy is a service that automates code deployments to any instance, including Amazon EC2 instances and instances running on-premises. 
