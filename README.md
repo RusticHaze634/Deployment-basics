@@ -19,11 +19,22 @@ Same as joblib - Copy the files from model library and paste in this folder
 - **[test.py](https://github.com/RusticHaze634/Deployment-basics/blob/main/Deployment%201/pickle/test.py) :**  - launch the model from pickle file and predict  
 
 ------------
-### Method 2: Flask
+### Method 2: Flask 
 
+(Folder: [Web Dev]() )   
 **Flask:** Framework for building web applications in Python   
 Use html to display the webpage operations, link stays active only when the code is running in VSCode.  
 
+- **[main.py]() :** - Create file for Flask running for Web development
+- **[readme.md]() :** - To note down steps
+  - ```
+      # install the flask package
+      terminal >> pip install flask
+      Now run the main.py file on command prompt
+    ```
+    After running the `main.py` , in command prompt it will appear -
+    ![image](https://user-images.githubusercontent.com/38161827/191633186-fbb04b1e-15fb-4c18-b0f0-fb255860ed40.png)
+    
 -------------
 ### Method 3: AWS
 
