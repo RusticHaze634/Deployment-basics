@@ -24,6 +24,9 @@ Same as joblib - Copy the files from model library and paste in this folder
 (Folder: [Web Dev]() )   
 **Flask:** Framework for building web applications in Python   
 Use html to display the webpage operations, link stays active only when the code is running in VSCode.  
+  Flask Framework:  
+  ![image](https://user-images.githubusercontent.com/38161827/191638910-2b9a81a8-cfed-4de2-bc41-dba3ca0132df.png)
+
 
 - **[main.py]() :** - Create file for Flask running for Web development
 - **[readme.md]() :** - To note down steps  
